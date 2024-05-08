@@ -1,0 +1,34 @@
+body {
+  color: red;
+  background-color: black;
+  text-shadow: 1px -1px;
+  font-family: sans-serif;
+}
+
+h1 {
+  text-align:center;
+  color: black;
+  background-color: red;
+}
+
+h2 {
+  text-align:center;
+  color: black;
+  background-color: red;
+}
+
+img {
+  float:right;
+  width: 400px;
+  resize: horizontal;
+border-style: dotted;
+}
+
+.myImage {
+  background-image: url("schoolgunvio.jpg");
+  
+}
+
+
+
+
